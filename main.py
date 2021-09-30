@@ -140,3 +140,5 @@ R - read
 U - update
 D - delete
 '''
+
+print(1)
