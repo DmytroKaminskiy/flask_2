@@ -144,3 +144,4 @@ D - delete
 print(1)
 print(2)
 print('HOMEWORK2')
+print(3)
